@@ -1,4 +1,5 @@
 https://disk.yandex.ru/d/pLNbPawSQbGQ7A
+https://drive.google.com/drive/folders/19QAXoy0q--JnLhEnVBR9pG0WC_56HDdl?usp=sharing
 
 33. Atbash (PHP)
 🔹 Код:
